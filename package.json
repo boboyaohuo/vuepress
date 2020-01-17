@@ -1,0 +1,10 @@
+{
+  "name": "boboyaohuo",
+  "version": "1.0.0",
+  "main": "config.js",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
